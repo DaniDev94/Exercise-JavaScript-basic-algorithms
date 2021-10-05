@@ -10,8 +10,8 @@ avengers[0] = "IRONMAN";
 const rickAndMortyCharacters = ["Rick", "Beth", "Jerry"];
 rickAndMortyCharacters.push("Morty", "Summer");
 // console.log(rickAndMortyCharacters);
-// console.log(rickAndMortyCharacters[rickAndMortyCharacters.length-1])
-// console.log(rickAndMortyCharacters[4]); Si añadimos mas elementos al array no es valido
+// console.log(rickAndMortyCharacters[rickAndMortyCharacters.length-1]) Forma correcta de acceder a la ultima posición.
+// console.log(rickAndMortyCharacters[4]); Si añadimos mas elementos al array no es valido por que ya no seria el ultimo.
 /*1.5------------------------------------------------------------------------>*/
 const rickAndMortyCharacters2 = ["Rick", "Beth", "Jerry", "Morty", "Summer", "Lapiz Lopez"];
 rickAndMortyCharacters2.pop();
