@@ -10,6 +10,7 @@ avengers[0] = "IRONMAN";
 const rickAndMortyCharacters = ["Rick", "Beth", "Jerry"];
 rickAndMortyCharacters.push("Morty", "Summer");
 // console.log(rickAndMortyCharacters);
+// console.log(rickAndMortyCharacters[rickAndMortyCharacters.length-1])
 // console.log(rickAndMortyCharacters[4]);
 /*1.5------------------------------------------------------------------------>*/
 const rickAndMortyCharacters2 = ["Rick", "Beth", "Jerry", "Morty", "Summer", "Lapiz Lopez"];
